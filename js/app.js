@@ -18,7 +18,7 @@ let billValue = 0.0;
 let tipValue = 0;
 let peopleValue = 1;
 
-tipBtns[2].click();
+
 
 function validateFload(s) {
     var rgx = /^[0-9]*\.?[0-9]*$/;
